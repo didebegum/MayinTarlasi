@@ -71,7 +71,3 @@ while True :
         secilenDeger = 'a'
             
 """     
-        
-    
-        
-     
